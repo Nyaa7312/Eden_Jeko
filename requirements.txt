@@ -12,6 +12,7 @@ cryptg
 csvfaker
 DateTime
 emoji
+ffmpeg
 fontTools
 fonttools
 geopy
@@ -33,6 +34,7 @@ kwot
 lottie
 lxml
 lyricsgenius
+mkvtoolnix
 nekos.py
 opencv-python--headless
 patool
@@ -72,6 +74,3 @@ vcsi
 wand
 wheel
 wikipedia
-youtube-search
-youtube-search-python
-youtube_dl
